@@ -11,9 +11,9 @@ Make sure you have the following installed:
 ## Installation
 
 1. Clone the repository:
-
+ 
    ```bash
-  https://github.com/BharathGovindula/Accuknox-Assignment.git
+    https://github.com/BharathGovindula/Accuknox-Assignment.git 
    ```
 
 
