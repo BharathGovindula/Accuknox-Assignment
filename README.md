@@ -1,3 +1,7 @@
+## Deplolyed App
+- Deployed Link : [Click Here](accuknox-assignment-bay.vercel.app)
+
+
 ## Getting Started
 Follow these instructions to set up and run this Assignment locally.
 
