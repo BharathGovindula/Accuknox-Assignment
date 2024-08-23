@@ -1,1 +1,41 @@
 # Accuknox-Assignment
+
+Getting Started
+Follow these instructions to set up and run this Assignment locally.
+
+Prerequisites
+Make sure you have the following installed:
+
+Node.js
+npm (comes with Node.js)
+Installation
+Clone the repository:
+
+https://github.com/BharathGovindula/Blog-Application.git
+Navigate to the project folder:
+
+cd client
+Install dependencies:
+
+npm install
+Usage
+To start the development server:
+
+npm start
+
+
+Technologies Used
+This Assignment leverages the following technologies:
+
+
+React: A JavaScript library for building user interfaces, developed by Facebook. It allows for the creation of reusable UI components. The front-end of this project is built using React, providing a dynamic and interactive user experience.
+
+Node.js: A JavaScript runtime that allows developers to run JavaScript code on the server side. In this project, Node.js is used as the server-side runtime environment to execute server-side logic, handle requests, and serve the React application.
+
+
+
+Technology Stack
+List and provide a brief overview of the technologies used in the Assignment.
+
+Node.js
+React.js
