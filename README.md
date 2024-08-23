@@ -1,41 +1,50 @@
-# Accuknox-Assignment
-
-Getting Started
+## Getting Started
 Follow these instructions to set up and run this Assignment locally.
 
-Prerequisites
+### Prerequisites
+
 Make sure you have the following installed:
 
-Node.js
-npm (comes with Node.js)
-Installation
-Clone the repository:
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
 
-https://github.com/BharathGovindula/Blog-Application.git
-Navigate to the project folder:
+## Installation
 
-cd client
-Install dependencies:
+1. Clone the repository:
 
-npm install
-Usage
+   ```bash
+  
+   ```
+
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+## Usage
+
 To start the development server:
 
+```bash
 npm start
+```
 
 
-Technologies Used
+## Technologies Used
+
 This Assignment leverages the following technologies:
 
 
-React: A JavaScript library for building user interfaces, developed by Facebook. It allows for the creation of reusable UI components. The front-end of this project is built using React, providing a dynamic and interactive user experience.
+- **React**: A JavaScript library for building user interfaces, developed by Facebook. It allows for the creation of reusable UI components. The front-end of this project is built using React, providing a dynamic and interactive user experience.
 
-Node.js: A JavaScript runtime that allows developers to run JavaScript code on the server side. In this project, Node.js is used as the server-side runtime environment to execute server-side logic, handle requests, and serve the React application.
+- **Node.js**: A JavaScript runtime that allows developers to run JavaScript code on the server side. In this project, Node.js is used as the server-side runtime environment to execute server-side logic, handle requests, and serve the React application.
 
 
 
-Technology Stack
+# Technology Stack
 List and provide a brief overview of the technologies used in the Assignment.
 
-Node.js
-React.js
+- Node.js
+- React.js
