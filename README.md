@@ -13,7 +13,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-  
+  https://github.com/BharathGovindula/Accuknox-Assignment.git
    ```
 
 
