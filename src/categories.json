@@ -1,0 +1,72 @@
+
+
+{
+    "categories": [
+      {
+        "id": "cspm-exec-dashboard",
+        "name": "CSPM",
+        "widgets": [
+          {
+            "id": "widget-1",
+            "name": "Cloud Accounts",
+            "text": "No data available"
+          },
+          {
+            "id": "widget-2",
+            "name": "Cloud Accounts Risk Assessment",
+            "text": "No data available"
+          },
+          {
+            "id": "",
+            "name": "",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "CWPP-Dashboard",
+        "name": "CWPP",
+        "widgets": [
+          {
+            "id": "widget-3",
+            "name": "Top 5 Namespace Specific Alerts",
+            "text": "No data available"
+          },
+          {
+            "id": "widget-4",
+            "name": "Workload Alerts",
+            "text": "No data available"
+          },
+          {
+            "id": "",
+            "name": "",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "Registry-Scan",
+        "name": "Registry scan",
+        "widgets": [
+          {
+            "id": "widget-5",
+            "name": "Image Risk Assessment",
+            "text": "No data available"
+          },
+          {
+            "id": "widget-6",
+            "name": "Image Security Issues",
+            "text": "No data available"
+          },
+          {
+            "id": "",
+            "name": "",
+            "text": ""
+          }
+        ]
+      }
+
+
+    ]
+  }
+  
