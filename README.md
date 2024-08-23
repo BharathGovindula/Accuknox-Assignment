@@ -1,5 +1,5 @@
 ## Deplolyed App
-- Deployed Link : [Click Here](accuknox-assignment-git-main-bharath-govindulas-projects.vercel.app)
+- Deployed Link : [Click Here](https://accuknox-assignment-bay.vercel.app/)
 
 
 ## Getting Started
